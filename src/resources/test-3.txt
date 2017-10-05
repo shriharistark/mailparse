@@ -1,0 +1,18 @@
+Order Cancelled
+Order # 404-0761629-9732341
+Hello hari,
+
+We're writing to let you know that your order has been cancelled because the payment couldn't be completed. You haven't been charged for the cancelled item.
+
+Before placing your next order, you can double-check your card details or add a new payment method here:
+Order Details
+ 
+Cancelled Order Details
+Order # 404-0761629-9732341
+Placed on Sunday, August 6, 2017
+ 
+	
+
+    Amazon Prime (One Year Membership)
+    Sold by ASSPL
+    Cancel reason: Payment Declined
